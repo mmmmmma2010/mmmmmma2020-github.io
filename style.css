@@ -1,0 +1,38 @@
+body{
+    background-color:thistle;
+    text-align: center;
+}
+table, th, td {
+    
+    border: 3px solid tomato ;
+  
+  }
+table {  
+    border-collapse: collapse;
+    background-color: oldlace;
+    margin-left:15%;
+    line-height: 1.5;
+   }
+   td{
+       
+       color: steelblue;
+   }
+   th{
+       color: sienna;
+   }
+h1{
+    color: orangered;
+}
+h3{
+    color: darkorange;
+}
+.bold{
+    font-weight: 700;
+}
+
+.sansserif {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+  }
+  .monospace {
+    font-family: Lucida Console, Courier, monospace;
+  }
